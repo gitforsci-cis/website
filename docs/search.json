@@ -58,5 +58,27 @@
     "crumbs": [
       "Pre-course work"
     ]
+  },
+  {
+    "objectID": "0-1-pre-work/02-install-r.html",
+    "href": "0-1-pre-work/02-install-r.html",
+    "title": "R and RStudio",
+    "section": "",
+    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 2: Install R & RStudio"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
+    "href": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
+    "title": "R and RStudio",
+    "section": "Download and install R and RStudio",
+    "text": "Download and install R and RStudio\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
+    "crumbs": [
+      "Pre-course work",
+      "Step 2: Install R & RStudio"
+    ]
   }
 ]
