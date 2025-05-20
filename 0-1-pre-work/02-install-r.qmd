@@ -1,6 +1,4 @@
----
-title: "R and RStudio"
----
+## {{< fa code >}} Download and install R and RStudio
 
 ::: {.callout-important collapse="false"}
 
@@ -9,8 +7,6 @@ title: "R and RStudio"
 Even if you already have R and RStudio installed, **it is strongly recommended to download and install the latest versions** to ensure compatibility with Quarto and access to the newest features and updates.  Up-to-date installations help avoid unexpected errors and ensure all features work as intended.
 
 :::
-
-## Download and install R and RStudio
 
 - R for Windows: <https://cran.rstudio.com/bin/windows/>
 - R for Mac: <https://cran.rstudio.com/bin/macosx/> ([Note]{.highlight-yellow}: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)

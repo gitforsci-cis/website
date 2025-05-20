@@ -62,9 +62,9 @@
   {
     "objectID": "0-1-pre-work/02-install-r.html",
     "href": "0-1-pre-work/02-install-r.html",
-    "title": "R and RStudio",
+    "title": "Quarto",
     "section": "",
-    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.",
+    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.\n\n\n\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
     "crumbs": [
       "Pre-course work",
       "Step 2: Install R & RStudio"
@@ -73,12 +73,67 @@
   {
     "objectID": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
     "href": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
-    "title": "R and RStudio",
-    "section": "Download and install R and RStudio",
-    "text": "Download and install R and RStudio\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
+    "title": "Quarto",
+    "section": "",
+    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.\n\n\n\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
     "crumbs": [
       "Pre-course work",
       "Step 2: Install R & RStudio"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/03-github-acc.html",
+    "href": "0-1-pre-work/03-github-acc.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/\n\n\n\n\nOnce you have created your GitHub Account, please fill out the pre-course survey immediately. We will then invite you to join the GitHub Organisation for the course.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 3: GitHub account"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/03-github-acc.html#get-an-account-for-github",
+    "href": "0-1-pre-work/03-github-acc.html#get-an-account-for-github",
+    "title": "Quarto",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/\n\n\n\n\nOnce you have created your GitHub Account, please fill out the pre-course survey immediately. We will then invite you to join the GitHub Organisation for the course.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 3: GitHub account"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/05-github-pat.html",
+    "href": "0-1-pre-work/05-github-pat.html",
+    "title": "Create a GitHub Personal Access Token",
+    "section": "",
+    "text": "Create a GitHub Personal Access Token\nHere are the step-by-step instructions to set up a GitHub personal access token (PAT):\n\n\n\n\n\n\nImportant\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\n\n\n\n\n\n\nTip\n\n\n\nYou will need this token in your pre-course work and throughout the workshop.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 5: GitHub PAT"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/04-survey.html",
+    "href": "0-1-pre-work/04-survey.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "At this point, we need your GitHub username. We have also developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nComplete the survey by Thursday, 22 May 2025: https://forms.gle/RJpK1fibAS6VbjcH7",
+    "crumbs": [
+      "Pre-course work",
+      "Step 4: Pre-course survey"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/04-survey.html#complete-pre-course-survey",
+    "href": "0-1-pre-work/04-survey.html#complete-pre-course-survey",
+    "title": "Quarto",
+    "section": "",
+    "text": "At this point, we need your GitHub username. We have also developed this survey to get an idea about your prior knowledge. It will help us shape the course to ensure that everyone gets an opportunity to learn at their pace.\n\nComplete the survey by Thursday, 22 May 2025: https://forms.gle/RJpK1fibAS6VbjcH7",
+    "crumbs": [
+      "Pre-course work",
+      "Step 4: Pre-course survey"
     ]
   }
 ]

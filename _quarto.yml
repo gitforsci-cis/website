@@ -41,9 +41,9 @@ website:
           - href: 0-1-pre-work/02-install-r.qmd
             text: "Step 2: Install R & RStudio"
           - href: 0-1-pre-work/03-github-acc.qmd
-            text: "Step 3: GitHub Account"
+            text: "Step 3: GitHub account"
           - href: 0-1-pre-work/04-survey.qmd
-            text: "Step 4: Pre-course Survey"
+            text: "Step 4: Pre-course survey"
           - href: 0-1-pre-work/05-github-pat.qmd
             text: "Step 5: GitHub PAT"
           - href: 0-1-pre-work/06-install-git.qmd
