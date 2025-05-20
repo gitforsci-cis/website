@@ -6,7 +6,6 @@ execute:
   warning: false
 editor_options: 
   chunk_output_type: console
-bibliography: references.bib
 ---
 
 Thank you for your interest in this course. Your course instructor [Lars Schöbitz](https://ghe.ethz.ch/about/people/person-detail.MjkyODc2.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) is looking forward to meet you. 
