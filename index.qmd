@@ -10,7 +10,7 @@ editor_options:
 
 Thank you for your interest in this course. Your course instructor [Lars Schöbitz](https://ghe.ethz.ch/about/people/person-detail.MjkyODc2.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) is looking forward to meet you. 
 
-We will meet on Tuesday, 27 May 2025 - 10:00 am to 12:00 noon CET at the PhD retreat of Computational and Information Sciences (CIS) group at ETH Zurich.
+We will meet on Tuesday, 27 May 2025 - 10:00 am to 12:00 noon CET at the PhD retreat of the Center for Comparative and International Studies (CIS) at ETH Zurich.
 
 Please ensure you have the following available:
 
@@ -41,6 +41,8 @@ library(readr)
 
 ## Course schedule
 
+- coming soon
+
 ```{r}
 #| tbl-colwidths: [25,75]
 #| eval: false 
@@ -53,7 +55,7 @@ read_csv(here::here("data/tbl-01-quarto-rdmss-24-course-schedule.csv")) |>
 
 ## Learning objectives
 
-- to be defined
+- coming soon
 
 ## Thanks!
 
