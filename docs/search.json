@@ -1,109 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pre-course work: Git for Scientists",
-    "section": "",
-    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet on Tuesday, 27 May 2025 - 10:00 am to 12:00 noon CET at the PhD retreat of Computational and Information Sciences (CIS) group at ETH Zurich.\nPlease ensure you have the following available:\nPrior to the workshop, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.",
-    "crumbs": [
-      "Pre-course work"
-    ]
-  },
-  {
-    "objectID": "index.html#what-do-i-need-to-prepare-before-the-workshop",
-    "href": "index.html#what-do-i-need-to-prepare-before-the-workshop",
-    "title": "Pre-course work: Git for Scientists",
-    "section": " What do I need to prepare before the workshop?",
-    "text": "What do I need to prepare before the workshop?\nPrior to the workshop, complete the following seven steps:\n\nStep 1: Register your ORCID iD.\nStep 2: Log into Posit Cloud and join the course workspace.\nStep 3: Create an account for Quarto Pub.\nStep 4: Fill out the pre-course survey by Thursday, 22 May 2025.\nStep 5:\nStep 6:\nStep 7: Check your complete setup by Monday, 26 May 2025.",
-    "crumbs": [
-      "Pre-course work"
-    ]
-  },
-  {
-    "objectID": "index.html#course-schedule",
-    "href": "index.html#course-schedule",
-    "title": "Pre-course work: Git for Scientists",
-    "section": "Course schedule",
-    "text": "Course schedule",
-    "crumbs": [
-      "Pre-course work"
-    ]
-  },
-  {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "Pre-course work: Git for Scientists",
-    "section": "Learning objectives",
-    "text": "Learning objectives\nThis course has the following learning objectives",
-    "crumbs": [
-      "Pre-course work"
-    ]
-  },
-  {
-    "objectID": "index.html#thanks",
-    "href": "index.html#thanks",
-    "title": "Pre-course work: Git for Scientists",
-    "section": "Thanks!",
-    "text": "Thanks!\nThank you for working through these steps. We are looking forward to meeting you at the course.",
-    "crumbs": [
-      "Pre-course work"
-    ]
-  },
-  {
-    "objectID": "index.html#attribution",
-    "href": "index.html#attribution",
-    "title": "Pre-course work: Git for Scientists",
-    "section": "Attribution",
-    "text": "Attribution\nContent was re-used from X and stored at Y. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License.",
-    "crumbs": [
-      "Pre-course work"
-    ]
-  },
-  {
-    "objectID": "0-1-pre-work/02-install-r.html",
-    "href": "0-1-pre-work/02-install-r.html",
-    "title": "Quarto",
-    "section": "",
-    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.\n\n\n\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
-    "crumbs": [
-      "Pre-course work",
-      "Step 2: Install R & RStudio"
-    ]
-  },
-  {
-    "objectID": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
-    "href": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
-    "title": "Quarto",
-    "section": "",
-    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.\n\n\n\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
-    "crumbs": [
-      "Pre-course work",
-      "Step 2: Install R & RStudio"
-    ]
-  },
-  {
-    "objectID": "0-1-pre-work/03-github-acc.html",
-    "href": "0-1-pre-work/03-github-acc.html",
-    "title": "Quarto",
-    "section": "",
-    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/\n\n\n\n\nOnce you have created your GitHub Account, please fill out the pre-course survey immediately. We will then invite you to join the GitHub Organisation for the course.",
-    "crumbs": [
-      "Pre-course work",
-      "Step 3: GitHub account"
-    ]
-  },
-  {
-    "objectID": "0-1-pre-work/03-github-acc.html#get-an-account-for-github",
-    "href": "0-1-pre-work/03-github-acc.html#get-an-account-for-github",
-    "title": "Quarto",
-    "section": "",
-    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/\n\n\n\n\nOnce you have created your GitHub Account, please fill out the pre-course survey immediately. We will then invite you to join the GitHub Organisation for the course.",
-    "crumbs": [
-      "Pre-course work",
-      "Step 3: GitHub account"
-    ]
-  },
-  {
     "objectID": "0-1-pre-work/05-github-pat.html",
     "href": "0-1-pre-work/05-github-pat.html",
     "title": "Create a GitHub Personal Access Token",
@@ -112,6 +8,17 @@
     "crumbs": [
       "Pre-course work",
       "Step 5: GitHub PAT"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/01-element.html",
+    "href": "0-1-pre-work/01-element.html",
+    "title": "Communication in a chat",
+    "section": "",
+    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels. At ETH Zurich, we have a chat server that is used by many courses and groups. It is based on the Matrix protocol, which is an open standard for secure, decentralised communication. The chat client is called Element, providing the open source, free-of-charge Slack-like experience. It is available to you as a student and is hosted by ETH Zurich.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself.\nTo set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Get in touch with me on Element by searching my ETH username lschoebitz.\n\n 9. Join the space for this workshop using this link: https://matrix.to/#/#gitforsci:staffchat.ethz.ch",
+    "crumbs": [
+      "Pre-course work",
+      "Step 1: Communication"
     ]
   },
   {
@@ -137,14 +44,151 @@
     ]
   },
   {
-    "objectID": "0-1-pre-work/01-element.html",
-    "href": "0-1-pre-work/01-element.html",
-    "title": "Communication in a chat",
+    "objectID": "0-1-pre-work/02-install-r.html",
+    "href": "0-1-pre-work/02-install-r.html",
+    "title": "Quarto",
     "section": "",
-    "text": "Emails are not a very quick, responsive way of communication. We avoid them by prioritising other channels. At ETH Zurich, we have a chat server that is used by many courses and groups. It is based on the Matrix protocol, which is an open standard for secure, decentralised communication. The chat client is called Element, providing the open source, free-of-charge Slack-like experience. It is available to you as a student and is hosted by ETH Zurich.\nYou can reach out to the course instructor and other students any time, and we have a way to stay in touch beyond the course itself.\nTo set it up, please follow the steps below:\n\nDownload and install Element: https://element.io/download. It is available on Linux, Mac OS, and Windows.\nOpen the Element app on your device.\nClick Sign in\nIn the Homeserver section, click Edit\n\n\n\nSelect Other homeserver and type studentchat.ethz.ch\n\n\n\nSign in with your ETH username and ETH password\n\n\n\nVerify your device by creating a security key and store it securely. You will need the security key for adding another devices or logging back in on the same device.\n\n\n\nWelcome! Get in touch with me on Element by searching my ETH username lschoebitz.\n\n 9. Join the space for this workshop using this link: https://matrix.to/#/#gitforsci:staffchat.ethz.ch",
+    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.\n\n\n\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
     "crumbs": [
       "Pre-course work",
-      "Step 1: Communication"
+      "Step 2: Install R & RStudio"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
+    "href": "0-1-pre-work/02-install-r.html#download-and-install-r-and-rstudio",
+    "title": "Quarto",
+    "section": "",
+    "text": "Do you already have a R version of R and RStudio?\n\n\n\n\n\nEven if you already have R and RStudio installed, it is strongly recommended to download and install the latest versions to ensure compatibility with Quarto and access to the newest features and updates. Up-to-date installations help avoid unexpected errors and ensure all features work as intended.\n\n\n\n\nR for Windows: https://cran.rstudio.com/bin/windows/\nR for Mac: https://cran.rstudio.com/bin/macosx/ (Note: Two separate downloads for Apple silicon M1, M2, etc. Macs and Intel Macs)\nRStudio: https://posit.co/download/rstudio-desktop/ for your operating system (Windows or Mac)\nFollow your operating system’s installation process",
+    "crumbs": [
+      "Pre-course work",
+      "Step 2: Install R & RStudio"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pre-course work: Git for Scientists",
+    "section": "",
+    "text": "Thank you for your interest in this course. Your course instructor Lars Schöbitz is looking forward to meet you.\nWe will meet on Tuesday, 27 May 2025 - 10:00 am to 12:00 noon CET at the PhD retreat of Computational and Information Sciences (CIS) group at ETH Zurich.\nPlease ensure you have the following available:\nPrior to the workshop, there is some pre-work for you to do. This pre-work will ensure that we can focus our time together on learning instead of setting up infrastructure.",
+    "crumbs": [
+      "Pre-course work"
+    ]
+  },
+  {
+    "objectID": "index.html#what-do-i-need-to-prepare-before-the-workshop",
+    "href": "index.html#what-do-i-need-to-prepare-before-the-workshop",
+    "title": "Pre-course work: Git for Scientists",
+    "section": " What do I need to prepare before the workshop?",
+    "text": "What do I need to prepare before the workshop?\nPrior to the workshop, complete the following seven steps:\n\nStep 1: Setup Element as a communication channel\nStep 2: Download and install R and RStudio\nStep 3: Get an account for GitHub\nStep 4: Complete the pre-course survey by Thursday, 22 May 2025.\nStep 5: Create a personal access token for GitHub\nStep 6: Install Git\nStep 7: Check your complete setup by Monday, 26 May 2025. (unlocked after pre-course survey is completed)",
+    "crumbs": [
+      "Pre-course work"
+    ]
+  },
+  {
+    "objectID": "index.html#course-schedule",
+    "href": "index.html#course-schedule",
+    "title": "Pre-course work: Git for Scientists",
+    "section": "Course schedule",
+    "text": "Course schedule",
+    "crumbs": [
+      "Pre-course work"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Pre-course work: Git for Scientists",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nto be defined",
+    "crumbs": [
+      "Pre-course work"
+    ]
+  },
+  {
+    "objectID": "index.html#thanks",
+    "href": "index.html#thanks",
+    "title": "Pre-course work: Git for Scientists",
+    "section": "Thanks!",
+    "text": "Thanks!\nThank you for working through these steps. We are looking forward to meeting you at the workshop.",
+    "crumbs": [
+      "Pre-course work"
+    ]
+  },
+  {
+    "objectID": "index.html#attribution",
+    "href": "index.html#attribution",
+    "title": "Pre-course work: Git for Scientists",
+    "section": "Attribution",
+    "text": "Attribution\nContent was re-used from X and stored at Y. The original content is licensed under a Creative Commons Attribution 4.0 International License.\n\n This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "Pre-course work"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/06-install-git.html",
+    "href": "0-1-pre-work/06-install-git.html",
+    "title": "Download and install Git",
+    "section": "",
+    "text": "Tip\n\n\n\nBe ready to get in touch on Element for this task.\n\n\n\n\nInstall Git for Windows, also known as msysgit or “Git Bash”, to get Git in addition to some other useful tools, such as the Bash shell. Yes, all those names are totally confusing, but you might encounter them elsewhere and I want you to be well-informed.\nWe like this because Git for Windows leaves the Git executable in a conventional location, which will help you and other programs, e.g. RStudio, find it and use it. This also supports a transition to more expert use, because the “Git Bash” shell will be useful as you venture outside of R/RStudio.\n\nNOTE: When asked about “Adjusting your PATH environment”, make sure to select “Git from the command line and also from 3rd-party software”. Otherwise, we believe it is good to accept the defaults.\nNote that RStudio for Windows prefers for Git to be installed below C:/Program Files and this appears to be the default. This implies, for example, that the Git executable on my Windows system is found at C:/Program Files/Git/bin/git.exe. Unless you have specific reasons to otherwise, follow this convention.\n\n\n\n\nIt’s slightly more complicated. Please get in touch through Element if you have questions.\nOption 1 (highly recommended): Install the Xcode command line tools (not all of Xcode), which includes Git.\n\nOpen the Terminal application on Mac and type xcode-select --install. If you don’t have it installed, you will be prompted to install the Xcode command line tools. Follow the instructions.\n\nOption 2 (recommended): If you anticipate getting heavily into scientific computing, you’re going to be installing and updating lots of software. You should check out Homebrew, “the missing package manager for OS X”. Among many other things, it can install Git for you.\n\nOpen the Terminal application on Mac, copy and run the following line:\n\n/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"\nThis will install Homebrew. You may be prompted for your password. If you are, type it in and hit enter. You won’t see anything appear on the screen as you type, but it is working.\nOnce you have Homebrew installed, type and run this in the terminal.\nbrew install git\nWe will confirm in Test your setup that you have Git installed and working.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 6: Install Git"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/06-install-git.html#install-git-windows",
+    "href": "0-1-pre-work/06-install-git.html#install-git-windows",
+    "title": "Download and install Git",
+    "section": "",
+    "text": "Install Git for Windows, also known as msysgit or “Git Bash”, to get Git in addition to some other useful tools, such as the Bash shell. Yes, all those names are totally confusing, but you might encounter them elsewhere and I want you to be well-informed.\nWe like this because Git for Windows leaves the Git executable in a conventional location, which will help you and other programs, e.g. RStudio, find it and use it. This also supports a transition to more expert use, because the “Git Bash” shell will be useful as you venture outside of R/RStudio.\n\nNOTE: When asked about “Adjusting your PATH environment”, make sure to select “Git from the command line and also from 3rd-party software”. Otherwise, we believe it is good to accept the defaults.\nNote that RStudio for Windows prefers for Git to be installed below C:/Program Files and this appears to be the default. This implies, for example, that the Git executable on my Windows system is found at C:/Program Files/Git/bin/git.exe. Unless you have specific reasons to otherwise, follow this convention.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 6: Install Git"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/06-install-git.html#macos",
+    "href": "0-1-pre-work/06-install-git.html#macos",
+    "title": "Download and install Git",
+    "section": "",
+    "text": "It’s slightly more complicated. Please get in touch through Element if you have questions.\nOption 1 (highly recommended): Install the Xcode command line tools (not all of Xcode), which includes Git.\n\nOpen the Terminal application on Mac and type xcode-select --install. If you don’t have it installed, you will be prompted to install the Xcode command line tools. Follow the instructions.\n\nOption 2 (recommended): If you anticipate getting heavily into scientific computing, you’re going to be installing and updating lots of software. You should check out Homebrew, “the missing package manager for OS X”. Among many other things, it can install Git for you.\n\nOpen the Terminal application on Mac, copy and run the following line:\n\n/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"\nThis will install Homebrew. You may be prompted for your password. If you are, type it in and hit enter. You won’t see anything appear on the screen as you type, but it is working.\nOnce you have Homebrew installed, type and run this in the terminal.\nbrew install git\nWe will confirm in Test your setup that you have Git installed and working.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 6: Install Git"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/03-github-acc.html",
+    "href": "0-1-pre-work/03-github-acc.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/\n\n\n\n\nOnce you have created your GitHub Account, please fill out the pre-course survey immediately. We will then invite you to join the GitHub Organisation for the course.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 3: GitHub account"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/03-github-acc.html#get-an-account-for-github",
+    "href": "0-1-pre-work/03-github-acc.html#get-an-account-for-github",
+    "title": "Quarto",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/\n\n\n\n\nOnce you have created your GitHub Account, please fill out the pre-course survey immediately. We will then invite you to join the GitHub Organisation for the course.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 3: GitHub account"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/07-first-repo.html",
+    "href": "0-1-pre-work/07-first-repo.html",
+    "title": "Test your setup",
+    "section": "",
+    "text": "In this task, we will test if your setup is complete and working. This task will only be available to you once you have completed all previous steps and most importantly Step 4: Pre-course survey.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 7: Test your setup"
     ]
   }
 ]

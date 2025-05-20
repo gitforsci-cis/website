@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>05-install-git – Quarto</title>
+<title>install-git – Quarto</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -160,33 +194,69 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#download-and-install-git" id="toc-download-and-install-git" class="nav-link active" data-scroll-target="#download-and-install-git">Download and install Git</a>
+  <ul class="collapse">
+  <li><a href="#install-git-windows" id="toc-install-git-windows" class="nav-link" data-scroll-target="#install-git-windows">Windows</a></li>
+  <li><a href="#macos" id="toc-macos" class="nav-link" data-scroll-target="#macos">macOS</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/gitforsci-cis/website/edit/main/0-1-pre-work/06-install-git.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gitforsci-cis/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../index.html">Pre-course work</a></li><li class="breadcrumb-item"><a href="../0-1-pre-work/06-install-git.html">Step 6: Install Git</a></li></ol></nav>
-<div class="quarto-title">
-<h1 class="title">05-install-git</h1>
+
+
+
+<section id="download-and-install-git" class="level1">
+<h1>Download and install Git</h1>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Be ready to get in touch on Element for this task.</p>
+</div>
+</div>
+<section id="install-git-windows" class="level2">
+<h2 class="anchored" data-anchor-id="install-git-windows">Windows</h2>
+<p>Install <a href="https://git-for-windows.github.io/">Git for Windows</a>, also known as <code>msysgit</code> or “Git Bash”, to get Git in addition to some other useful tools, such as the Bash shell. Yes, all those names are totally confusing, but you might encounter them elsewhere and I want you to be well-informed.</p>
+<p>We like this because Git for Windows leaves the Git executable in a conventional location, which will help you and other programs, e.g.&nbsp;RStudio, find it and use it. This also supports a transition to more expert use, because the “Git Bash” shell will be useful as you venture outside of R/RStudio.</p>
+<ul>
+<li><strong>NOTE:</strong> When asked about “Adjusting your PATH environment”, make sure to select “Git from the command line and also from 3rd-party software”. Otherwise, we believe it is good to accept the defaults.</li>
+<li>Note that RStudio for Windows prefers for Git to be installed below <code>C:/Program Files</code> and this appears to be the default. This implies, for example, that the Git executable on my Windows system is found at <code>C:/Program Files/Git/bin/git.exe</code>. Unless you have specific reasons to otherwise, follow this convention.</li>
+</ul>
+</section>
+<section id="macos" class="level2">
+<h2 class="anchored" data-anchor-id="macos">macOS</h2>
+<p>It’s slightly more complicated. Please get in touch through Element if you have questions.</p>
+<p><strong>Option 1</strong> (<em>highly recommended</em>): Install the Xcode command line tools (<strong>not all of Xcode</strong>), which includes Git.</p>
+<ul>
+<li>Open the Terminal application on Mac and type <code>xcode-select --install</code>. If you don’t have it installed, you will be prompted to install the Xcode command line tools. Follow the instructions.</li>
+</ul>
+<p><strong>Option 2</strong> (<em>recommended</em>): If you anticipate getting heavily into scientific computing, you’re going to be installing and updating lots of software. You should check out <a href="http://brew.sh">Homebrew</a>, “the missing package manager for OS X”. Among many other things, it can install Git for you.</p>
+<ul>
+<li>Open the Terminal application on Mac, copy and run the following line:</li>
+</ul>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">/bin/bash</span> <span class="at">-c</span> <span class="st">"</span><span class="va">$(</span><span class="ex">curl</span> <span class="at">-fsSL</span> https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh<span class="va">)</span><span class="st">"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>This will install Homebrew. You may be prompted for your password. If you are, type it in and hit enter. You won’t see anything appear on the screen as you type, but it is working.</p>
+<p>Once you have Homebrew installed, type and run this in the terminal.</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">brew</span> install git</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>We will confirm in <a href="../0-1-pre-work/07-first-repo.html">Test your setup</a> that you have Git installed and working.</p>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-
-
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -629,7 +699,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/gitforsci-cis/website/edit/main/0-1-pre-work/06-install-git.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gitforsci-cis/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gitforsci-cis/website/edit/main/0-1-pre-work/06-install-git.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gitforsci-cis/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>

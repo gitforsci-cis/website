@@ -1,5 +1,5 @@
 ---
-title: "06-first-repo"
-format: html
+title: "Test your setup"
 ---
 
+In this task, we will test if your setup is complete and working. This task will only be available to you once you have completed all previous steps and most importantly [Step 4: Pre-course survey](04-survey.qmd).
