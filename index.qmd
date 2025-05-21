@@ -12,6 +12,18 @@ Thank you for your interest in this course. Your course instructor [Lars Schöbi
 
 We will meet on Tuesday, 27 May 2025 - 10:00 am to 12:00 noon CET at the PhD retreat of the Center for Comparative and International Studies (CIS) at ETH Zurich.
 
+## Prior knowledge
+
+For this course, we assume that you have some prior knowledge of R and RStudio. You should be able to:
+
+- install and load R packages
+- read and run short R scripts
+- edit and run R Markdown / Quarto documents
+- navigate the RStudio IDE
+- identify the four panes of the RStudio IDE (Script, Environment, Files, Console)
+
+## What do I need to bring to the workshop?
+
 Please ensure you have the following available:
 
 -   a laptop, connected to wifi
