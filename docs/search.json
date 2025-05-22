@@ -131,7 +131,7 @@
     "href": "index.html#learning-objectives",
     "title": "Pre-course work: Git for Scientists",
     "section": "Learning objectives",
-    "text": "Learning objectives\n\ncoming soon",
+    "text": "Learning objectives\nBy the end of this workshop, participants will be able to:\n\nCreate and clone repositories, and clearly explain the difference between cloning and forking a repository, enabling effective collaboration and local development workflows.\nApply the standard Git workflow using RStudio IDE—including pulling, staging, committing, and pushing changes—and resolve basic merge conflicts (if time permits) when they arise.\nWork with branches and pull requests by creating and managing development branches (using both RStudio and the terminal), submitting pull requests, and reviewing and commenting on others’ pull requests to facilitate code review and collaborative development",
     "crumbs": [
       "Pre-course work"
     ]
@@ -277,5 +277,201 @@
       "Pre-course work",
       "Step 7: Test your setup"
     ]
+  },
+  {
+    "objectID": "1-1-website/index.html",
+    "href": "1-1-website/index.html",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "1-1-website/index.html#slides",
+    "href": "1-1-website/index.html#slides",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "View slides in full screen"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#reuse",
+    "href": "1-1-website/1-1-website.html#reuse",
+    "title": "Introduction & Clone",
+    "section": "Reuse",
+    "text": "Reuse"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#clip",
+    "href": "1-1-website/1-1-website.html#clip",
+    "title": "Introduction & Clone",
+    "section": "Clip",
+    "text": "Clip"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#compare-text",
+    "href": "1-1-website/1-1-website.html#compare-text",
+    "title": "Introduction & Clone",
+    "section": "Compare Text",
+    "text": "Compare Text"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#fall",
+    "href": "1-1-website/1-1-website.html#fall",
+    "title": "Introduction & Clone",
+    "section": "Fall",
+    "text": "Fall"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#friends",
+    "href": "1-1-website/1-1-website.html#friends",
+    "title": "Introduction & Clone",
+    "section": "Friends",
+    "text": "Friends"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#groundcrew-text",
+    "href": "1-1-website/1-1-website.html#groundcrew-text",
+    "title": "Introduction & Clone",
+    "section": "Groundcrew Text",
+    "text": "Groundcrew Text"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#harness",
+    "href": "1-1-website/1-1-website.html#harness",
+    "title": "Introduction & Clone",
+    "section": "Harness",
+    "text": "Harness"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#scoping",
+    "href": "1-1-website/1-1-website.html#scoping",
+    "title": "Introduction & Clone",
+    "section": "Scoping",
+    "text": "Scoping"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#wickhambryan-git-quote",
+    "href": "1-1-website/1-1-website.html#wickhambryan-git-quote",
+    "title": "Introduction & Clone",
+    "section": "Wickham/Bryan Git Quote",
+    "text": "Wickham/Bryan Git Quote\n\n\n\n\n https://gitforsci-cis.github.io/website/"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-8",
+    "href": "1-1-website/1-1-website.html#section-8",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub for the win!\nGitHub enables new frontiers for open science as we collaborate, share, and publish more easily. And, it is critical to continually question who is safe to participate with these tools. Who is not yet participating, and why? Barriers to access include past exclusion, skills, and support. Let’s all work empathetically and inclusively to help make more people feel welcome and safe using these powerful tools so we can all go further, together."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section",
+    "href": "1-1-website/1-1-website.html#section",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nWhy GitHub?\n“Collaboration is the most compelling reason to manage a project with Git and GitHub. My definition of collaboration includes hands-on participation by multiple people, including your past and future self, as well as an asymmetric model, in which some people are active makers and others only read or review.” - Jenny Bryan\nBryan J. 2017. Excuse me, do you have a moment to talk about version control? PeerJ Preprints 5:e3159v2 https://doi.org/10.7287/peerj.preprints.3159v2"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-1",
+    "href": "1-1-website/1-1-website.html#section-1",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nWhy GitHub?\nThe concepts, mechanics, and vocabulary of GitHub (and underlying software Git) are new and unfamiliar when we get started or learn more about its capabilities. Hadley Wickham and Jenny Bryan use the analogy of climbing to describe how GitHub can keep us safe while also showing our journey.\nWickham & Bryan, R Packages https://r-pkgs.org/preface.html"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-2",
+    "href": "1-1-website/1-1-website.html#section-2",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps streamline our work\nGitHub helps streamline our work because it takes care of otherwise time-consuming bookkeeping and unrelenting file tracking. Instead of spending our time inspecting and fretting over whether “analysis_final_v2.xls” or “analysis_final_final.xls” is truly the final version, with GitHub we can be confident in our completed analysis and move to the next step."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-3",
+    "href": "1-1-website/1-1-website.html#section-3",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us support\nGitHub helps us support others and existing work. Whether we are organizing, improving documentation, or asking and answering questions, GitHub helps us provide support to our collaborators on projects, whether we are writing code or not."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-4",
+    "href": "1-1-website/1-1-website.html#section-4",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us reuse\nGitHub helps us reuse existing work, which lets us learn and build from other people’s shared experience rather than reinventing on our own. Plus, the existing work gets better each time someone tries it and shares their experience back. Whether it’s code, documentation, or knowledge through posted conversations, reusing existing things can save time, resources, and frustration. Importantly, reuse also expands the value of existing work while celebrating the contributions of others."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-5",
+    "href": "1-1-website/1-1-website.html#section-5",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us contribute\nGitHub helps us contribute ideas through code, text, and more, with less worry about file management. This helps us feel more confident to share work-in-progress and contribute to existing work, knowing that we won’t break things. It also helps us share work earlier that might be imperfect, since we can still make changes from there."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-6",
+    "href": "1-1-website/1-1-website.html#section-6",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nGitHub helps us fail safely\nGitHub helps us fail safely. Because we can return to previous versions easily, painful consequences of failing are reduced. We can more bravely try things and start making contributions, knowing that some (many?) will fail - but won’t be catastrophic! When we fail, we’ll be able to start again from where we left off (instead of from the ground), and a clear history can help us learn from the past."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#section-7",
+    "href": "1-1-website/1-1-website.html#section-7",
+    "title": "Introduction & Clone",
+    "section": "",
+    "text": "Illustrations from the Openscapes blog GitHub for supporting, contributing, and failing safely by Allison Horst and Julia Lowndes\n\n\nHarness the power of GitHub.\nOnce we are empowered to work collaboratively with GitHub, it opens up a whole new world of projects that feel more welcoming because we can contribute in many different ways, using familiar approaches, and evolving with new possibilities as they emerge. This transferrable ability to collaborate and develop confidence for trying new things might just be the best thing about GitHub."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#read-on-github-strategies",
+    "href": "1-1-website/1-1-website.html#read-on-github-strategies",
+    "title": "Introduction & Clone",
+    "section": "Read on: GitHub strategies",
+    "text": "Read on: GitHub strategies\n\nOpenscapes Champions Lesson Series. @julia_stewart_lowndes_2024_14428503: https://openscapes.github.io/series/core-lessons/github/\nExcuse Me, Do You Have a Moment to Talk About Version Control? https://peerj.com/preprints/3159/"
+  },
+  {
+    "objectID": "1-1-website/index.html#readings",
+    "href": "1-1-website/index.html#readings",
+    "title": "Introduction & Clone",
+    "section": "Readings",
+    "text": "Readings\n\nOpenscapes Champions Lesson Series. Lowndes, Butland, and Robinson (2024) https://openscapes.github.io/series/core-lessons/github/\nExcuse Me, Do You Have a Moment to Talk About Version Control? https://peerj.com/preprints/3159/"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#meet-the-lecturers",
+    "href": "1-1-website/1-1-website.html#meet-the-lecturers",
+    "title": "Introduction & Clone",
+    "section": "Meet the lecturers",
+    "text": "Meet the lecturers\nLars Schöbitz\n\n\nEnvironmental Engineer r emo::ji(\"hammer\")\nRetired researcher r emo::ji(\"bed\")\nRStudio certified instructor\nData steward at ETHZ"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#learning-goals-for-the-course",
+    "href": "1-1-website/1-1-website.html#learning-goals-for-the-course",
+    "title": "Introduction & Clone",
+    "section": "Learning Goals (for the course)",
+    "text": "Learning Goals (for the course)"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#thanks-r-emojisunflower",
+    "href": "1-1-website/1-1-website.html#thanks-r-emojisunflower",
+    "title": "Introduction & Clone",
+    "section": "Thanks! r emo::ji(\"sunflower\")",
+    "text": "Thanks! r emo::ji(\"sunflower\")\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#references",
+    "href": "1-1-website/1-1-website.html#references",
+    "title": "Introduction & Clone",
+    "section": "References",
+    "text": "References\n\n\n\n https://gitforsci-cis.github.io/website/"
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#thanks",
+    "href": "1-1-website/1-1-website.html#thanks",
+    "title": "Introduction & Clone",
+    "section": "Thanks!",
+    "text": "Thanks!\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International."
+  },
+  {
+    "objectID": "1-1-website/1-1-website.html#meet-the-lecturer",
+    "href": "1-1-website/1-1-website.html#meet-the-lecturer",
+    "title": "Introduction & Clone",
+    "section": "Meet the lecturer",
+    "text": "Meet the lecturer\nLars Schöbitz\n\n\nEnvironmental Engineer r emo::ji(\"hammer\")\nRetired researcher r emo::ji(\"bed\")\nRStudio certified instructor\nData steward at ETHZ"
   }
 ]
