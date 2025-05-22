@@ -111,7 +111,7 @@
     "href": "index.html#what-do-i-need-to-prepare-before-the-workshop",
     "title": "Pre-course work: Git for Scientists",
     "section": " What do I need to prepare before the workshop?",
-    "text": "What do I need to prepare before the workshop?\nPrior to the workshop, complete the following seven steps:\n\nStep 1: Setup Element as a communication channel\nStep 2: Download and install R and RStudio\nStep 3: Get an account for GitHub\nStep 4: Complete the pre-course survey by Thursday, 22 May 2025.\nStep 5: Create a personal access token for GitHub\nStep 6: Install Git\nStep 7: Check your complete setup by Monday, 26 May 2025. (unlocked after pre-course survey is completed)",
+    "text": "What do I need to prepare before the workshop?\nPrior to the workshop, complete the following seven steps:\n\nStep 1: Setup Element as a communication channel\nStep 2: Download and install R and RStudio\nStep 3: Get an account for GitHub\nStep 4: Complete the pre-course survey by Thursday, 22 May 2025.\nStep 5: Create a personal access token for GitHub\nStep 6: Install Git\nStep 7: Check your complete setup by Monday, 26 May 2025 13:00 CET. (unlocked after pre-course survey is completed)\nStep 8: Read “Why Git? Why GitHub?” from “Happy Git and GitHub for the useR”!",
     "crumbs": [
       "Pre-course work"
     ]
