@@ -42,7 +42,8 @@ Prior to the workshop, complete the following seven steps:
 -   [Step 4](0-1-pre-work/04-survey.html): Complete the pre-course survey by [**Thursday, 22 May 2025**]{.highlight-yellow}.
 -   [Step 5](0-1-pre-work/05-github-pat.html): Create a personal access token for GitHub
 -   [Step 6](0-1-pre-work/06-install-git.html): Install Git
--   [Step 7](0-1-pre-work/07-first-repo.html): Check your complete setup by [**Monday, 26 May 2025**]{.highlight-yellow}. (unlocked after pre-course survey is completed)
+-   [Step 7](0-1-pre-work/07-first-repo.html): Check your complete setup by [**Monday, 26 May 2025 13:00 CET**]{.highlight-yellow}. (unlocked after pre-course survey is completed)
+-   [Step 8](0-1-pre-work/08-big-picture.html): Read "Why Git? Why GitHub?" from "Happy Git and GitHub for the useR"!
 
 ```{r}
 library(googlesheets4)

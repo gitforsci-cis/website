@@ -155,6 +155,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Step 7: Test your setup</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../0-1-pre-work/08-big-picture.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Step 8: Why Git? Why GitHub?</span></a>
+  </div>
+</li>
       </ul>
   </li>
     </ul>
@@ -312,6 +318,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
