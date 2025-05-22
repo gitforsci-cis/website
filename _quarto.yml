@@ -55,6 +55,7 @@ format:
   html:
     theme:
       light: [litera, theme.scss]
+    link-external-icon: true
     code-copy: true
     code-overflow: wrap
     toc: true

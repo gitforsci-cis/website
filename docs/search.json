@@ -195,7 +195,29 @@
     "href": "0-1-pre-work/07-first-repo.html",
     "title": "Test your setup",
     "section": "",
-    "text": "In this task, we will test if your setup is complete and working. This task will only be available to you once you have completed all previous steps and most importantly Step 4: Pre-course survey.",
+    "text": "In this task, we will test if your setup is complete and working. You will also already perform the first steps of using Git version control and GitHub.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 7: Test your setup"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/07-first-repo.html#step-1-accept-invitation-from-github",
+    "href": "0-1-pre-work/07-first-repo.html#step-1-accept-invitation-from-github",
+    "title": "Test your setup",
+    "section": "Step 1: Accept invitation from GitHub",
+    "text": "Step 1: Accept invitation from GitHub\n\n\n\n\n\n\nNo email from GitHub?\n\n\n\nConfirm that you have completed the pre-course survey and let me know on Element that you did not yet receive an email from GitHub to accept the invitation to the gitforsci-cis organization. I will send you an invitation.\n\n\n\nOpen your email that you used to register for your GitHub account.\nFine the email from GitHub with the subject “[GitHub] @larnsce invited you to join the ‘gitforsci-cis’ organization”.\nClick on the link in the email to accept the invitation and work through the steps that follow in your browser to accept the invitation.",
+    "crumbs": [
+      "Pre-course work",
+      "Step 7: Test your setup"
+    ]
+  },
+  {
+    "objectID": "0-1-pre-work/07-first-repo.html#step-1-clone-a-repository",
+    "href": "0-1-pre-work/07-first-repo.html#step-1-clone-a-repository",
+    "title": "Test your setup",
+    "section": "Step 1: Clone a repository",
+    "text": "Step 1: Clone a repository\n\nOpen the landing page for the GitHub organization ‘gitforsci-cis’: https://github.com/gitforsci-cis\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the rbtl-fs25 workspace on posit.cloud\nClick New Project &gt; New Project from Git Repository\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed\nContinue with the next step",
     "crumbs": [
       "Pre-course work",
       "Step 7: Test your setup"

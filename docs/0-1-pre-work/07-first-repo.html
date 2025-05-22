@@ -159,8 +159,15 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#step-1-accept-invitation-from-github" id="toc-step-1-accept-invitation-from-github" class="nav-link active" data-scroll-target="#step-1-accept-invitation-from-github">Step 1: Accept invitation from GitHub</a></li>
+  <li><a href="#step-1-clone-a-repository" id="toc-step-1-clone-a-repository" class="nav-link" data-scroll-target="#step-1-clone-a-repository">Step 1: Clone a repository</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/gitforsci-cis/website/edit/main/0-1-pre-work/07-first-repo.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gitforsci-cis/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -184,9 +191,46 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this task, we will test if your setup is complete and working. This task will only be available to you once you have completed all previous steps and most importantly <a href="../0-1-pre-work/04-survey.html">Step 4: Pre-course survey</a>.</p>
+<p>In this task, we will test if your setup is complete and working. You will also already perform the first steps of using Git version control and GitHub.</p>
+<section id="step-1-accept-invitation-from-github" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-accept-invitation-from-github">Step 1: Accept invitation from GitHub</h2>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+No email from GitHub?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Confirm that you have <a href="../0-1-pre-work/04-survey.html">completed the pre-course survey</a> and let me know on Element that you did not yet receive an email from GitHub to accept the invitation to the <code>gitforsci-cis</code> organization. I will send you an invitation.</p>
+</div>
+</div>
+<ol type="1">
+<li>Open your email that you used to register for your GitHub account.</li>
+<li>Fine the email from GitHub with the subject “[GitHub] <span class="citation" data-cites="larnsce">@larnsce</span> invited you to join the ‘gitforsci-cis’ organization”.</li>
+<li>Click on the link in the email to accept the invitation and work through the steps that follow in your browser to accept the invitation.</li>
+</ol>
+<p><img src="images/screenshot-github-invitation.png" class="img-fluid" style="width:100.0%"></p>
+</section>
+<section id="step-1-clone-a-repository" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-clone-a-repository">Step 1: Clone a repository</h2>
+<ol type="1">
+<li><p>Open the landing page for the GitHub organization ‘gitforsci-cis’: <a href="https://github.com/gitforsci-cis" class="uri">https://github.com/gitforsci-cis</a></p></li>
+<li><p>Navigate to the GitHub organisation for the course.</p></li>
+<li><p>Find the repository git-configuration-USERNAME that ends with your GitHub username, and open it.</p></li>
+<li><p>Click on the green “Code” button.</p></li>
+<li><p>Copy the HTTPS URL to your clipboard.</p></li>
+<li><p>Open the rbtl-fs25 workspace on <a href="https://posit.cloud/spaces/611943/content/all?sort=name_asc">posit.cloud</a></p></li>
+<li><p>Click New Project &gt; New Project from Git Repository</p></li>
+<li><p>Paste the HTTPS URL from GitHub into the “URL of your Git Repository” field.</p></li>
+<li><p>Wait until the project is deployed</p></li>
+<li><p>Continue with the next step</p></li>
+</ol>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -295,6 +339,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -626,7 +672,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/gitforsci-cis/website/edit/main/0-1-pre-work/07-first-repo.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gitforsci-cis/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/gitforsci-cis/website/edit/main/0-1-pre-work/07-first-repo.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/gitforsci-cis/website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
