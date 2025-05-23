@@ -14,11 +14,15 @@
   </url>
   <url>
     <loc>https://gitforsci-cis.github.io/website/0-1-pre-work/06-install-git.html</loc>
-    <lastmod>2025-05-20T14:34:58.105Z</lastmod>
+    <lastmod>2025-05-23T08:23:08.019Z</lastmod>
   </url>
   <url>
     <loc>https://gitforsci-cis.github.io/website/index.html</loc>
+<<<<<<< HEAD
     <lastmod>2025-05-22T20:29:11.286Z</lastmod>
+=======
+    <lastmod>2025-05-23T08:24:01.920Z</lastmod>
+>>>>>>> main
   </url>
   <url>
     <loc>https://gitforsci-cis.github.io/website/0-1-pre-work/02-install-r.html</loc>
@@ -26,7 +30,7 @@
   </url>
   <url>
     <loc>https://gitforsci-cis.github.io/website/0-1-pre-work/08-big-picture.html</loc>
-    <lastmod>2025-05-22T13:06:33.632Z</lastmod>
+    <lastmod>2025-05-23T08:24:01.682Z</lastmod>
   </url>
   <url>
     <loc>https://gitforsci-cis.github.io/website/0-1-pre-work/03-github-acc.html</loc>
@@ -34,7 +38,7 @@
   </url>
   <url>
     <loc>https://gitforsci-cis.github.io/website/0-1-pre-work/07-first-repo.html</loc>
-    <lastmod>2025-05-22T13:05:36.182Z</lastmod>
+    <lastmod>2025-05-23T08:24:01.682Z</lastmod>
   </url>
   <url>
     <loc>https://gitforsci-cis.github.io/website/1-1-website/index.html</loc>
