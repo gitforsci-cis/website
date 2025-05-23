@@ -68,7 +68,13 @@ read_csv(here::here("data/tbl-01-quarto-rdmss-24-course-schedule.csv")) |>
 
 ## Learning objectives
 
-- coming soon
+By the end of this workshop, participants will be able to:
+
+1. Create and clone repositories, and clearly explain the difference between cloning and forking a repository, enabling effective collaboration and local development workflows.
+
+2. Apply the standard Git workflow using RStudio IDE—including pulling, staging, committing, and pushing changes—and resolve basic merge conflicts (if time permits) when they arise.
+
+3. Work with branches and pull requests by creating and managing development branches (using both RStudio and the terminal), submitting pull requests, and reviewing and commenting on others’ pull requests to facilitate code review and collaborative development
 
 ## Thanks!
 
